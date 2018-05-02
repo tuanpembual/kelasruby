@@ -1,4 +1,5 @@
 #!/usr/bin/ruby -w
+## ini belajar class
 
 # define a class
 class Box

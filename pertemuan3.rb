@@ -33,4 +33,5 @@ class Box
  puts "Width of the box is : #{x}"
  puts "Height of the box is : #{y}"
  puts "luas adalah: #{z}"
+ puts "ini ujicoba"
  
